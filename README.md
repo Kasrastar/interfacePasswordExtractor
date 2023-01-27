@@ -17,9 +17,9 @@ but by using this application they could find any saved interface password or by
     > g++ -o main.exe *.o
  
  after all now you have to option :
- 1. execute program without argument
+ 1. execute program without argument to see all interfaces stored password
     > main.exe
- 2. execute program with multiple argument
-    > main.exe interface_name1 interface_name1 ...
+ 2. execute program with multiple argument to see selected interface stored password
+    > main.exe interface_name1 interface_name2 ...
   
 fill free to use and enjoy ;) don't forget give ⭐
